@@ -1,0 +1,382 @@
+[
+    {
+        "path": "10-proven-ways-to-make-smart-choices-that-multiply-opportunities-in-your-life.html",
+        "type": "file",
+        "md5": "9b9cea657c4e7d6dcdea7930bddc0dab"
+    },
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "2ce12cf703f38768f35491ef13304b50"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "929eb2ccfe347627e3bf2f99c4347a0e"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "121f9229b70ae53481164a337d2b1fae"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "fafdaaaf21e0ae9678e49280e0b8d62b"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/thelhsbell",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/thelhsbell/index.html",
+        "type": "file",
+        "md5": "fbf1b5770ee13f64255572ff9ab317ad"
+    },
+    {
+        "path": "authors/thelhsbell/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/thelhsbell/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/thelhsbell/page/2/index.html",
+        "type": "file",
+        "md5": "b244127b183f0965b374bb609f66f7f5"
+    },
+    {
+        "path": "building-a-personal-luck-philosophy-create-opportunities-and-embrace-serendipity.html",
+        "type": "file",
+        "md5": "dcd2b454d961202adfc268e091399204"
+    },
+    {
+        "path": "contact.html",
+        "type": "file",
+        "md5": "03aeacd064d5013896262837dd61cc5c"
+    },
+    {
+        "path": "creating-a-winning-routine-essential-habits-to-attract-good-fortune-and-success.html",
+        "type": "file",
+        "md5": "d11f87e8e166d4cd1ea9b128a9774add"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "44311aaf75f26912852816d7bfdefb8b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "ab3d220b0daed4b857d8f6aa6e30d0a0"
+    },
+    {
+        "path": "how-to-stay-inspired-when-life-feels-random-10-practical-tips-to-ignite-your-creativity.html",
+        "type": "file",
+        "md5": "b87df9dabf4d9356a86d8f585dcc0bf0"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "625cfbe38ac393c57dcd05421d66a920"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/authors/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/cover.png",
+        "type": "file",
+        "md5": "dc497478c45a83d9c694eeecc28b9056"
+    },
+    {
+        "path": "media/authors/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "4b6a9de3ecf0ad31f928e94610997680"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "85c2f59c62212fd951b4748d756e8f12"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-md.png",
+        "type": "file",
+        "md5": "24999ab3d319fb5f7c123ebd12efb953"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "33a9d92e0be3b0ed92a0faa81c513272"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "412a67c3ea94c1e9e0226acf3da36c91"
+    },
+    {
+        "path": "/media/authors/1/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "55e8bce688358a572df581542ab88886"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Think-Lucky-2.jpg",
+        "type": "file",
+        "md5": "45628e6e95df83ad3c5d081e5bf11185"
+    },
+    {
+        "path": "/media/website/Think-Lucky.jpg",
+        "type": "file",
+        "md5": "45628e6e95df83ad3c5d081e5bf11185"
+    },
+    {
+        "path": "/media/website/cover.png",
+        "type": "file",
+        "md5": "dc497478c45a83d9c694eeecc28b9056"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "aa392c13feb886c01bb85fba6b10effc"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-2-2xl.jpg",
+        "type": "file",
+        "md5": "286b163eb783c222da6c05b53104d8b6"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-2-lg.jpg",
+        "type": "file",
+        "md5": "bb47e32c1e583e979f63c05df1f3c320"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-2-md.jpg",
+        "type": "file",
+        "md5": "42556550fa85668121ac6b644b59c67d"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-2-sm.jpg",
+        "type": "file",
+        "md5": "a947ff81d842ace6011376961fc62010"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-2-xl.jpg",
+        "type": "file",
+        "md5": "792a4afc5f475de3ad93b37192726155"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-2-xs.jpg",
+        "type": "file",
+        "md5": "5fcb16060838c39cf122c44dce94c124"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-2xl.jpg",
+        "type": "file",
+        "md5": "286b163eb783c222da6c05b53104d8b6"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-lg.jpg",
+        "type": "file",
+        "md5": "bb47e32c1e583e979f63c05df1f3c320"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-md.jpg",
+        "type": "file",
+        "md5": "42556550fa85668121ac6b644b59c67d"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-sm.jpg",
+        "type": "file",
+        "md5": "a947ff81d842ace6011376961fc62010"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-xl.jpg",
+        "type": "file",
+        "md5": "792a4afc5f475de3ad93b37192726155"
+    },
+    {
+        "path": "/media/website/responsive/Think-Lucky-xs.jpg",
+        "type": "file",
+        "md5": "5fcb16060838c39cf122c44dce94c124"
+    },
+    {
+        "path": "/media/website/responsive/cover-2xl.png",
+        "type": "file",
+        "md5": "4b6a9de3ecf0ad31f928e94610997680"
+    },
+    {
+        "path": "/media/website/responsive/cover-lg.png",
+        "type": "file",
+        "md5": "85c2f59c62212fd951b4748d756e8f12"
+    },
+    {
+        "path": "/media/website/responsive/cover-md.png",
+        "type": "file",
+        "md5": "24999ab3d319fb5f7c123ebd12efb953"
+    },
+    {
+        "path": "/media/website/responsive/cover-sm.png",
+        "type": "file",
+        "md5": "33a9d92e0be3b0ed92a0faa81c513272"
+    },
+    {
+        "path": "/media/website/responsive/cover-xl.png",
+        "type": "file",
+        "md5": "412a67c3ea94c1e9e0226acf3da36c91"
+    },
+    {
+        "path": "/media/website/responsive/cover-xs.png",
+        "type": "file",
+        "md5": "55e8bce688358a572df581542ab88886"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "7579e6282be5db34eb793c1436e28510"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2db86b8fdea2e04ebf4dfc790ef6fc7b"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "39b8e3ac07f7eec1d641228f87688d89"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "small-bets-big-impact-how-to-make-calculated-life-chances-for-personal-growth.html",
+        "type": "file",
+        "md5": "471a05e80f78fdd7b7b7a822383c922f"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "cdc210c8b3b0af3546baad5b92cb5f7a"
+    },
+    {
+        "path": "turning-everyday-luck-into-real-life-wins-unlock-success-with-simple-strategies.html",
+        "type": "file",
+        "md5": "ba0b815710794bb3760340364dbfbb27"
+    },
+    {
+        "path": "unforgettable-stories-of-serendipity-how-chance-changed-everything-forever.html",
+        "type": "file",
+        "md5": "181225b095246a26a96b59250309039b"
+    },
+    {
+        "path": "unlocking-success-the-psychology-of-positivity-and-probability-explained.html",
+        "type": "file",
+        "md5": "54c22a3578699bdc55b04dba28b46d34"
+    }
+]
